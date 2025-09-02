@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+.box {
+  border: 1px solid #999;
+  background: white;
+  display: inline-block;
+  padding: 20px 30px;
+  margin-top: 40px;
+  text-align: left;
+}
+
+.example {
+  color: black;
+  margin-left: 10px;
+}
+input[type="number"],
+input[type="text"] {
+  width: 60px;
+  padding: 3px;
+  margin-left: 5px;
+  text-align: center;
+}
+button {
+  padding: 6px 14px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+pre {
+  text-align: center;
+  font-size: 18px;
+}
