@@ -10,11 +10,11 @@
 
 <body>
     <div class="container">
-        <h1>Technical Test - Rifqi Alamsyh</h1>
+        <h1>Technical Test - Rifqi Alamsyah</h1>
         <nav>
             <ul>
                 <li><a href="soal1.php">Soal 1</a></li>
-                <li><a href="/">Soal 2</a></li>
+                <li><a href="soal2.php">Soal 2</a></li>
             </ul>
         </nav>
     </div>

@@ -29,6 +29,8 @@ session_start();
                 <br><br>
                 <input type="hidden" name="step" value="2">
                 <button type="submit">SUBMIT</button>
+                <a href="/"> | Home</a>
+
             </form>
         </div>
     <?php
@@ -74,6 +76,7 @@ session_start();
             }
         }
         echo "</pre>";
+        echo "<a href='soal1.php'>Ulangi</a> | <a href='/'>Home</a>";
 
         session_destroy();
     }

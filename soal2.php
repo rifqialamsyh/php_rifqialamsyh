@@ -35,6 +35,8 @@ $result = $mysqli->query($sql);
 
 <body>
     <h2>Banyaknya Hobi</h2>
+    <a href="/">Home</a>
+    <hr>
 
     <form method="get" class="search-box">
         <input type="text" name="search" placeholder="Search hobby..." value="<?= htmlspecialchars($search) ?>">
